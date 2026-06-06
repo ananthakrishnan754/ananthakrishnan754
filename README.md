@@ -6,6 +6,7 @@
   <a href="https://ananthakrishnans.me"><img src="https://img.shields.io/badge/Website-ananthakrishnans.me-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://linkedin.com/in/ananthakrishnan754"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:krishnananantha754@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/cyberkrixx"><img src="https://img.shields.io/badge/Instagram-@cyberkrixx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
