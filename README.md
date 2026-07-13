@@ -1,12 +1,21 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=600&lines=ANANTHAKRISHNAN+S;AI+%26+Embedded+Systems+Developer;Open+Source+Contributor;Problem+Solver" alt="Typing SVG" />
+
+  <!-- Premium Hero Banner (auto-switches with GitHub theme) -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="light.svg"/>
+    <img src="dark.svg" alt="Ananthakrishnan S — Profile Banner" width="100%"/>
+  </picture>
+
 </div>
+
+<br/>
 
 <p align="center">
   <a href="https://ananthakrishnans.me"><img src="https://img.shields.io/badge/Website-ananthakrishnans.me-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://linkedin.com/in/ananthakrishnan754"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ananthakrishnan754"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:krishnananantha754@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/cyberkrixx"><img src="https://img.shields.io/badge/Instagram-@cyberkrixx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
@@ -16,8 +25,8 @@
 I build at the intersection of **AI/ML**, **Embedded Systems**, and **Full-Stack Development**. From computer vision on Raspberry Pi to Linux kernel drivers, I enjoy solving real-world problems with code.
 
 - Currently working on AI-powered embedded systems and open-source Linux tools
-- Built [Predator Helios Linux Control Center](https://github.com/ananthakrishnan754/Predator-Helios-16-Linux-Control-Center) - bringing RGB & fan control to Linux
-- Creating [TimeTraveller](https://github.com/ananthakrishnan754/time-traveller) - AI age-progression from a single photo
+- Built [Predator Helios Linux Control Center](https://github.com/ananthakrishnan754/Predator-Helios-16-Linux-Control-Center) — bringing RGB & fan control to Linux
+- Creating [TimeTraveller](https://github.com/ananthakrishnan754/time-traveller) — AI age-progression from a single photo
 - Building agentic AI systems and voice agents
 
 ---
@@ -93,7 +102,7 @@ Android app that reads WhatsApp notifications, summarizes messages, and transcri
 
 `Android` `Gemini AI` `NLP`
 
-### [Face Recognition for Alzheimer's Patients](https://github.com/ananthakrishnan754/Deep-learning-based-real-time-face-recognization-system-for-alzheimer-s-patients)
+### [Face Recognition for Alzheimer's Patients](https://github.com/ananthakrishnan754/Deep-learning-based-real-time-face-recognison-system-for-alzheimer-s-patients)
 Real-time face recognition system for Alzheimer's patient care.
 
 `Deep Learning` `Computer Vision` `Healthcare`
